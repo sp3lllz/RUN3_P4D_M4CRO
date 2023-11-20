@@ -23,7 +23,7 @@ keyboard = Keyboard(usb_hid.devices)
 while True:
     for i, button in enumerate(buttons):
         if button.value:
-            # Use i+1 as the Keycode, assuming you want to map buttons to F1-F20
-            keyboard.send(Keycode.F1 + i)
+            # Use Keycode.F24 - i as the Keycode, counting backward
+            keyboard.send(Keycode.F24 - i)
             time.sleep(0.1)
     time.sleep(0.1)
