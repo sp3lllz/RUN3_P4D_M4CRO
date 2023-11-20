@@ -1,7 +1,4 @@
-# PiPicoMacroKeys
-[![Discord](https://img.shields.io/discord/316245914987528193?logo=discord)](https://discord.com/invite/v8dAnFV) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw) [![Twitter URL](https://img.shields.io/twitter/follow/novaspirittech?style=flat-square&logo=twitter)](https://twitter.com/novaspirittech)
+# RUN3_P4D_M4CRO
 
-Write up [Tom's hardware](https://www.tomshardware.com/how-to/raspberry-pi-pico-powered-stream-deck)
-
-![](/picomarokeys.png)
-
+Based on the [PiPicoMacroKeys](https://github.com/novaspirit/PiPicoMacroKeys) project. 
+This fork is adapted to work with my 20 Key (5x4) 15 Key (4x4) and 12 Key (5x3) Macro Pads using the Waveshare 2040 Zero
