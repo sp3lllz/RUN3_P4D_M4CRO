@@ -22,10 +22,10 @@ btn13_pin = board.GP13
 btn14_pin = board.GP14
 btn15_pin = board.GP15
 btn16_pin = board.GP16
-btn17_pin = board.GP17
-btn18_pin = board.GP18
-btn19_pin = board.GP19
-btn20_pin = board.GP20
+btn17_pin = board.GP26
+btn18_pin = board.GP27
+btn19_pin = board.GP28
+btn20_pin = board.GP29
 
 btn0 = digitalio.DigitalInOut(btn1_pin)
 btn0.direction = digitalio.Direction.INPUT
